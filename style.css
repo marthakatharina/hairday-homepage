@@ -4,9 +4,9 @@
     padding: 0;
 }
 body {
-    background-color: #241c1a;
+    /* background-color: #241c1a; */
     /*background: linear-gradient(#332421, #5f2549);*/
-    /*background: linear-gradient(#322133, #5f2549); */
+    background: linear-gradient(#1b176d, #5f2549);
     font-family: "Roboto Condensed", sans-serif;
     margin: 2rem 5%;
     letter-spacing: 1px;
