@@ -1,5 +1,6 @@
 # hairday-homepage
-<img src="https://cdn.dribbble.com/userupload/11586299/file/original-e8322cb3ff0f72084a08c808373bc7da.png?resize=752x" alt="" width="640" height="auto">
+
+<img src="https://cdn.dribbble.com/userupload/11586299/file/original-ddb3a467db030c930d8b05a5d009ebd2.png" alt="" width="640" height="auto">
 
 Logo provided. Design to suit the style of the logo.
 
