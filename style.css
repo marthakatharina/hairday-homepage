@@ -4,9 +4,7 @@
     padding: 0;
 }
 body {
-    /* background-color: #241c1a; */
-    background: linear-gradient(#faf0e9, #f4e1d2);
-    /* background: linear-gradient(#1b176d, #5f2549); */
+    background: linear-gradient(#fdf6f6, #f3d3d2);
     font-family: "Roboto Condensed", sans-serif;
     margin: 2rem 5%;
     letter-spacing: 1px;
@@ -21,7 +19,7 @@ h2 {
     font-weight: 300;
 }
 p {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-weight: 300;
     padding-top: 1rem;
     line-height: 1.4;
@@ -79,7 +77,7 @@ section {
     background: -webkit-linear-gradient(
         -50deg,
         rgb(208, 96, 75) 45%,
-        rgb(243, 224, 210) 0%
+        rgb(243 210 210) 0%
     );
 }
 
@@ -98,8 +96,8 @@ h1 {
 h1 + p {
     padding: 2rem 4rem;
     text-align: left;
-    color: rgb(6 5 5);
-    background: rgb(255 255 255 / 50%);
+    color: rgb(255 255 255);
+    background: #00000085;
 }
 article {
     flex: 1;
@@ -109,7 +107,7 @@ section .services {
     background: -webkit-linear-gradient(
         -50deg,
         rgb(208, 96, 75) 45%,
-        rgb(243, 224, 210) 0%
+        rgb(243 211 210) 0%
     );
 }
 
