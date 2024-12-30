@@ -73,7 +73,7 @@ nav li:hover {
 
 section {
     display: flex;
-    margin-top: 5rem;
+    margin-top: 3rem;
     background: -webkit-linear-gradient(
         -50deg,
         rgb(208, 96, 75) 45%,
